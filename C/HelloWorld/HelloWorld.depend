@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630464975 source:/var/www/html/cursos/treina-web/logica-de-programacao/C/HelloWorld/main.c
+	<stdio.h>
+	<stdlib.h>
+
